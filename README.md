@@ -1,1 +1,1 @@
-# CommercelQ
+This is the updated README content.
