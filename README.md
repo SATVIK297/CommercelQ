@@ -1,1 +1,2 @@
-This is the updated README content.
+## New README Content
+This README has been updated automatically!
